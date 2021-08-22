@@ -1,5 +1,4 @@
 package lesson03;
-
 import java.util.Scanner;
 
 public class SalaryUserData {
